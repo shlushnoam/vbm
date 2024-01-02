@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+    <channel>
+        <atom:link href="http://rss.castbox.fm/everest/d82ede0d721f4a849434377b9ea09f09.xml" type="application/rss+xml" rel="self"/>
+        <copyright>&amp;copy; ישיבת הר עציון</copyright>
+        <link>https://castbox.fm/ch/5681397</link>
+        <language>he</language>
+
+        <title>לשמוע פרשה | קובץ שיעורים לפרשה מאת רבני ישיבת הר עציון</title>
+        <description><![CDATA[כל שבוע עולים שיעורי עבר על הפרשה]]></description>
+        <castbox:uid>2bddbd54b8614e77b9a2e6ab1343066b</castbox:uid>
+        <castbox:pid>5681397</castbox:pid>
+        <castbox:type></castbox:type>
+        <itunes:summary><![CDATA[כל שבוע עולים שיעורי עבר על הפרשה]]></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>yeshivat har etzion</itunes:author>
+        <itunes:owner>
+            <itunes:email>newmedia.haretzion@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+        <itunes:keywords>Education,Judaism</itunes:keywords>    
+        <itunes:category text="Education"/>  
+        <itunes:category text="Religion &amp; Spirituality">
+             <itunes:category text="Judaism"/>
+        </itunes:category>
+            
+        
+        
+
+        <itunes:explicit>no</itunes:explicit>
+
+        
+        <item>
+            <title>מקץ | ברכת הגומל הרב יאיר קאהן</title>
+            <description><![CDATA[  <p>האם יש חיוב לברך ברכת הגומל על מי שהכניס עצמו למצב של סכנה?</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>האם יש חיוב לברך ברכת הגומל על מי שהכניס עצמו למצב של סכנה?</p>  ]]></content:encoded>
+            <itunes:summary>האם יש חיוב לברך ברכת הגומל על מי שהכניס עצמו למצב של סכנה?</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+            <enclosure url="https://s3.castbox.fm/25/65/55/f1b6844b6889bd0f4656205238.mp3" type="audio/mp3" length="7708634"/>
+            <itunes:duration>00:32:07</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-4d40b90fd5f24aa2a504f3c19e7b2a17</guid>
+            <pubDate>Wed, 13 Dec 2023 20:43:15 +0000</pubDate>
+            <castbox:tid>656244360</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>מקץ | חלומות פרעה ופתרונם פרופ יונתן גרוסמן</title>
+            <description><![CDATA[  <p>מה ראה פרעה בפתרונות יוסף שגרם לו למנותו למשנה למלך מצרים?</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מה ראה פרעה בפתרונות יוסף שגרם לו למנותו למשנה למלך מצרים?</p>  ]]></content:encoded>
+            <itunes:summary>מה ראה פרעה בפתרונות יוסף שגרם לו למנותו למשנה למלך מצרים?</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+            <enclosure url="https://s3.castbox.fm/73/4c/33/970dca45e281eddb857b7c0d60.mp3" type="audio/mp3" length="8309074"/>
+            <itunes:duration>00:34:37</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-f5a559cb6721477893664797b21daf03</guid>
+            <pubDate>Wed, 13 Dec 2023 20:42:00 +0000</pubDate>
+            <castbox:tid>656243933</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>מקץ | עלייתו של יוסף הרב זאב וייטמן</title>
+            <description><![CDATA[  <p>מקץ | עלייתו של יוסף', 'מדוע יוסף נוקם באחיו ונוטר להם? מדוע הוא אינו מתחשב באביו ואף פוגע בו?</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מקץ | עלייתו של יוסף', 'מדוע יוסף נוקם באחיו ונוטר להם? מדוע הוא אינו מתחשב באביו ואף פוגע בו?</p>  ]]></content:encoded>
+            <itunes:summary>מקץ | עלייתו של יוסף&#39;, &#39;מדוע יוסף נוקם באחיו ונוטר להם? מדוע הוא אינו מתחשב באביו ואף פוגע בו?</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+            <enclosure url="https://s3.castbox.fm/92/0a/9e/7330dd4e7d88cae1399ed95fad.mp3" type="audio/mp3" length="7314862"/>
+            <itunes:duration>00:30:28</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-e1d5a6af806c4ffaa808e0deeb4935b1</guid>
+            <pubDate>Wed, 13 Dec 2023 20:39:47 +0000</pubDate>
+            <castbox:tid>656242621</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>מקץ | חוכמתו של יוסף הרב אמנון בזק</title>
+            <description><![CDATA[  <p>מהי הנקודה הייחודית בחלומותיו&nbsp;</p><p>של פרעה המאפשרת לנו לעמוד על חוכמתו הרבה של יוסף?</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מהי הנקודה הייחודית בחלומותיו&nbsp;</p><p>של פרעה המאפשרת לנו לעמוד על חוכמתו הרבה של יוסף?</p>  ]]></content:encoded>
+            <itunes:summary>מהי הנקודה הייחודית בחלומותיו של פרעה המאפשרת לנו לעמוד על חוכמתו הרבה של יוסף?</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+            <enclosure url="https://s3.castbox.fm/c4/47/19/fcb7d9459d86332206fb0ee00d.mp3" type="audio/mp3" length="7175177"/>
+            <itunes:duration>00:29:53</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-fd7dc209f25e4331a1868daea4646b11</guid>
+            <pubDate>Wed, 13 Dec 2023 20:37:23 +0000</pubDate>
+            <castbox:tid>656241769</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>מקץ | דין ערב הרב ישי יסלזון</title>
+            <description><![CDATA[  <p>ראובן ויהודה מנסים לערוב לבנימין, אך מהדברים שהם מציעים לא ברור שהם יכולים להיות ערבים</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>ראובן ויהודה מנסים לערוב לבנימין, אך מהדברים שהם מציעים לא ברור שהם יכולים להיות ערבים</p>  ]]></content:encoded>
+            <itunes:summary>ראובן ויהודה מנסים לערוב לבנימין, אך מהדברים שהם מציעים לא ברור שהם יכולים להיות ערבים</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+            <enclosure url="https://s3.castbox.fm/f0/6a/9b/9e06c84088aa05fead7e7c85ac.mp3" type="audio/mp3" length="16175110"/>
+            <itunes:duration>00:33:41</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-f8c62dad787042ed8b4250b3be6e653b</guid>
+            <pubDate>Wed, 13 Dec 2023 20:36:19 +0000</pubDate>
+            <castbox:tid>656241541</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>מקץ | גדולתו של יהודה הרב עזרא ביק</title>
+            <description><![CDATA[  <p>כאורה התבלטותו של יהודה מופיעה בפרשה הבאה, פרשת ויגש. האם אפשר למצוא את גדולתו גם בפרשתנו?</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>כאורה התבלטותו של יהודה מופיעה בפרשה הבאה, פרשת ויגש. האם אפשר למצוא את גדולתו גם בפרשתנו?</p>  ]]></content:encoded>
+            <itunes:summary>כאורה התבלטותו של יהודה מופיעה בפרשה הבאה, פרשת ויגש. האם אפשר למצוא את גדולתו גם בפרשתנו?</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
+            <enclosure url="https://s3.castbox.fm/58/93/dd/e57ad54bb5920e62863c52e706.mp3" type="audio/mp3" length="7601719"/>
+            <itunes:duration>00:31:40</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-eecc0bca9a1d49bf9535dfdd47915e9c</guid>
+            <pubDate>Wed, 13 Dec 2023 20:34:57 +0000</pubDate>
+            <castbox:tid>656241190</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישב | מכירת יוסף וסיפור יהודה ותמר הרב יונתן גרוסמן</title>
+            <description><![CDATA[  <p>על מיקומו של סיפור יהודה ותמר באמצע סיפורי מכירת יוסף ועל הקשר בין שני הסיפורים.</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>על מיקומו של סיפור יהודה ותמר באמצע סיפורי מכירת יוסף ועל הקשר בין שני הסיפורים.</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>על מיקומו של סיפור יהודה ותמר באמצע סיפורי מכירת יוסף ועל הקשר בין שני הסיפורים.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/17/6d/90/6b23c5474683c92994f3de248a.mp3" type="audio/mp3" length="8862645"/>
+            <itunes:duration>00:36:55</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-e5be4dd4bb49455ab9fe6b956deeef92</guid>
+            <pubDate>Mon, 04 Dec 2023 12:28:20 +0000</pubDate>
+            <castbox:tid>650031888</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישב | יוסף ופרשת יהודה ותמר הרב משה ליכטנשטיין והרב ניצן ברגר</title>
+            <description><![CDATA[  <p>הרב ניצן ברגר על&nbsp;מדרגת יוסף לעומת מדרגת שאר האחים, והרב משה ליכטנשטיין על הופעת פרשת יהודה ותמר באמצע סיפור יוסף.</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>הרב ניצן ברגר על&nbsp;מדרגת יוסף לעומת מדרגת שאר האחים, והרב משה ליכטנשטיין על הופעת פרשת יהודה ותמר באמצע סיפור יוסף.</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>הרב ניצן ברגר על מדרגת יוסף לעומת מדרגת שאר האחים, והרב משה ליכטנשטיין על הופעת פרשת יהודה ותמר באמצע סיפור יוסף.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/07/ce/41/b881c74838998c20036cd6938a.mp3" type="audio/mp3" length="9344591"/>
+            <itunes:duration>00:38:56</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-de64b233a1394e0f817e13613e660329</guid>
+            <pubDate>Mon, 04 Dec 2023 12:27:31 +0000</pubDate>
+            <castbox:tid>650031820</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>מכירת יוסף הרב זאב וייטמן</title>
+            <description><![CDATA[  <p>מכירת יוסף הרב זאב וייטמן</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מכירת יוסף הרב זאב וייטמן</p>  ]]></content:encoded>
+            <itunes:summary>מכירת יוסף הרב זאב וייטמן</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/cf/81/41/59336641048fd4a59a3c5f7719.mp3" type="audio/mp3" length="6544624"/>
+            <itunes:duration>00:27:16</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-5ee4b0edaa304f8b9ea7db54df64d0c3</guid>
+            <pubDate>Mon, 04 Dec 2023 12:26:15 +0000</pubDate>
+            <castbox:tid>650031708</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישב | תענית חלום הרב יאיר קאהן</title>
+            <description><![CDATA[  <p>מה עניינה של תענית חלום, ומדוע מי שמתענה בשבת צריך להשלים למחרת?</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מה עניינה של תענית חלום, ומדוע מי שמתענה בשבת צריך להשלים למחרת?</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>מה עניינה של תענית חלום, ומדוע מי שמתענה בשבת צריך להשלים למחרת?</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/c3/3b/22/ea9c1940059b3c2fa776d62768.mp3" type="audio/mp3" length="7792952"/>
+            <itunes:duration>00:32:28</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-feff8ec8413b4520b2131bdf70df2cce</guid>
+            <pubDate>Mon, 04 Dec 2023 12:25:37 +0000</pubDate>
+            <castbox:tid>650031660</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישב | סיפור יהודה ותמר הרב אמנון בזק</title>
+            <description><![CDATA[  <p>מדוע התורה מאריכה לספר לנו על סיפור שלא קשור לפרק שלפניו ולפרק אחריו?</p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מדוע התורה מאריכה לספר לנו על סיפור שלא קשור לפרק שלפניו ולפרק אחריו?</p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>מדוע התורה מאריכה לספר לנו על סיפור שלא קשור לפרק שלפניו ולפרק אחריו?</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/83/f8/2e/0b5af942a7841dc6692c10eba9.mp3" type="audio/mp3" length="9660856"/>
+            <itunes:duration>00:40:15</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-8d1ea36fe76d4adb8745550497ee7dc7</guid>
+            <pubDate>Mon, 04 Dec 2023 12:24:56 +0000</pubDate>
+            <castbox:tid>650031565</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישב | איסור ייחוד הרב ישי יסלזון</title>
+            <description><![CDATA[  <p>בעקבות מעשה יוסף ואשת פוטיפר, נדון היום בשורשים ובגדרים הבסיסיים של איסור יחוד. ננסה להבין האם תוקפו של האיסור מדאורייתא או מדרבנן ונעמוד קצת על טעמו ומהותו.</p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>בעקבות מעשה יוסף ואשת פוטיפר, נדון היום בשורשים ובגדרים הבסיסיים של איסור יחוד. ננסה להבין האם תוקפו של האיסור מדאורייתא או מדרבנן ונעמוד קצת על טעמו ומהותו.</p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>בעקבות מעשה יוסף ואשת פוטיפר, נדון היום בשורשים ובגדרים הבסיסיים של איסור יחוד. ננסה להבין האם תוקפו של האיסור מדאורייתא או מדרבנן ונעמוד קצת על טעמו ומהותו.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/d0/8b/e4/0768e54f1b96d4e4b3dd418b55.mp3" type="audio/mp3" length="14865525"/>
+            <itunes:duration>00:30:58</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-fb7f4cd9c44042aea32d2d49a9826fc1</guid>
+            <pubDate>Mon, 04 Dec 2023 12:23:04 +0000</pubDate>
+            <castbox:tid>650031346</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>הקמת המצבה בבית אל הרב עזרא ביק</title>
+            <description><![CDATA[  <p>הקמת המצבה בבית אל הרב עזרא ביק</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>הקמת המצבה בבית אל הרב עזרא ביק</p>  ]]></content:encoded>
+            <itunes:summary>הקמת המצבה בבית אל הרב עזרא ביק</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/2e/10/68/71ce8d4cb9bcdfdd734df34625.mp3" type="audio/mp3" length="7717067"/>
+            <itunes:duration>00:32:09</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-51d92de4fabc4f5b8d6711fc43eadda3</guid>
+            <pubDate>Mon, 27 Nov 2023 12:19:15 +0000</pubDate>
+            <castbox:tid>650030632</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישלח | משמעות הכתובה הרב יאיר קאהן</title>
+            <description><![CDATA[  <p>מדוע יש צורך לתת כתובה לאישה לפני החתונה? האם לא מספיק פשוט לתת לה מתנות וכלים שהיא צריכה?</p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מדוע יש צורך לתת כתובה לאישה לפני החתונה? האם לא מספיק פשוט לתת לה מתנות וכלים שהיא צריכה?</p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>מדוע יש צורך לתת כתובה לאישה לפני החתונה? האם לא מספיק פשוט לתת לה מתנות וכלים שהיא צריכה?</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/74/c2/6c/7eb21f45888c7566d46df4cd96.mp3" type="audio/mp3" length="8014371"/>
+            <itunes:duration>00:33:23</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-0d81c087cc7b4b6eb1ebe26a4ea3b275</guid>
+            <pubDate>Mon, 27 Nov 2023 12:17:43 +0000</pubDate>
+            <castbox:tid>650030414</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישלח | מעלת עם ישראל הרב ברוך גיגי</title>
+            <description><![CDATA[  <p>עיון במשך חכמה על פרשת וישלח: שתי הבנות בפירוש הפסוק "ויהי לי שור וחמור", שבא לבאר את מעלת יעקב על עשיו.</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>עיון במשך חכמה על פרשת וישלח: שתי הבנות בפירוש הפסוק "ויהי לי שור וחמור", שבא לבאר את מעלת יעקב על עשיו.</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>עיון במשך חכמה על פרשת וישלח: שתי הבנות בפירוש הפסוק &#34;ויהי לי שור וחמור&#34;, שבא לבאר את מעלת יעקב על עשיו.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/4b/6a/4f/b921c44aaf81fcdbbd212476a3.mp3" type="audio/mp3" length="6443658"/>
+            <itunes:duration>00:26:50</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-f9bdc867e1cc4048a17e6e2b025f88e5</guid>
+            <pubDate>Mon, 27 Nov 2023 12:16:50 +0000</pubDate>
+            <castbox:tid>650030307</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>התאווה המתפרצת הרב עוזי פרידליך</title>
+            <description><![CDATA[  <p>על אחת הפרשיות היותר מסעירות בתורה - פרשת דינה ושכם.</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>על אחת הפרשיות היותר מסעירות בתורה - פרשת דינה ושכם.</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>על אחת הפרשיות היותר מסעירות בתורה - פרשת דינה ושכם.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/7e/f3/72/b93aca4594879bc5696abd0104.mp3" type="audio/mp3" length="5931633"/>
+            <itunes:duration>00:24:42</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-8daaf503ded44a91be15321db9898b73</guid>
+            <pubDate>Mon, 27 Nov 2023 12:15:59 +0000</pubDate>
+            <castbox:tid>650030128</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישלח | על פי המהר&#34;ל הרב בני להמן</title>
+            <description><![CDATA[  <p>מה ההבדל בין כוכבי השמים לעפר הארץ וחול הים? על ריבוי והתרבות, ראשית והתפשטות</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>מה ההבדל בין כוכבי השמים לעפר הארץ וחול הים? על ריבוי והתרבות, ראשית והתפשטות</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>מה ההבדל בין כוכבי השמים לעפר הארץ וחול הים? על ריבוי והתרבות, ראשית והתפשטות</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/d4/06/9f/f342b4438895660086db55dead.mp3" type="audio/mp3" length="7711907"/>
+            <itunes:duration>00:32:07</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-a05a97edbf0a47729b14e87cb5465ed8</guid>
+            <pubDate>Mon, 27 Nov 2023 12:15:13 +0000</pubDate>
+            <castbox:tid>650030041</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>וישלח | שייכותם של גויים בקיום מצוות הרב ישי יסלזון</title>
+            <description><![CDATA[  <p>האם גוי יכול לקיים מצוות שהוא לא נצטווה בהם? האם היה מותר לתושבי שכם למול עצמם למרות היותם גויים?&nbsp;ננסה לבחון את השייכות של קיום מצוות שאינן משבע מצוות בני נח ע"י גויים.</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>האם גוי יכול לקיים מצוות שהוא לא נצטווה בהם? האם היה מותר לתושבי שכם למול עצמם למרות היותם גויים?&nbsp;ננסה לבחון את השייכות של קיום מצוות שאינן משבע מצוות בני נח ע"י גויים.</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>האם גוי יכול לקיים מצוות שהוא לא נצטווה בהם? האם היה מותר לתושבי שכם למול עצמם למרות היותם גויים? ננסה לבחון את השייכות של קיום מצוות שאינן משבע מצוות בני נח ע&#34;י גויים.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/43/92/d8/04d9f4485493226c54a792d0e2.mp3" type="audio/mp3" length="15602027"/>
+            <itunes:duration>00:32:30</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-79ad64c271274838885505bd088fe3b5</guid>
+            <pubDate>Mon, 27 Nov 2023 12:14:22 +0000</pubDate>
+            <castbox:tid>650029967</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>ויצא | סולם יעקב - דגם לעבודת ה&#39; הרב נחמיה רענן</title>
+            <description><![CDATA[  <p>עבודת ה' בנויה באופן אינטרגלי מעליות וירידות, ודווקא הירידה מאפשרת אחריה את העלייה</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>עבודת ה' בנויה באופן אינטרגלי מעליות וירידות, ודווקא הירידה מאפשרת אחריה את העלייה</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>עבודת ה&#39; בנויה באופן אינטרגלי מעליות וירידות, ודווקא הירידה מאפשרת אחריה את העלייה</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/9d/8d/bf/6537b54eb4b94049dcc778361f.mp3" type="audio/mp3" length="15553510"/>
+            <itunes:duration>00:29:11</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-834f192c045c41c8a0b4e344b364219d</guid>
+            <pubDate>Mon, 20 Nov 2023 12:10:55 +0000</pubDate>
+            <castbox:tid>650029510</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>ויצא | סולם יעקב הרב זאב וייטמן</title>
+            <description><![CDATA[  <p>במה התייחד חלומו של יעקב? מה היחס בין בית אל לירושלים בחלומו של יעקב?</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>במה התייחד חלומו של יעקב? מה היחס בין בית אל לירושלים בחלומו של יעקב?</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>במה התייחד חלומו של יעקב? מה היחס בין בית אל לירושלים בחלומו של יעקב?</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/c5/13/7d/180e06452b9c1de98f3c8ce44b.mp3" type="audio/mp3" length="8439166"/>
+            <itunes:duration>00:35:09</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-cd8e916ef4dd4662a7472cdbd03f7f31</guid>
+            <pubDate>Mon, 20 Nov 2023 12:09:51 +0000</pubDate>
+            <castbox:tid>650029414</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>ויצא | חידוש התפילה הרב יאיר קאהן</title>
+            <description><![CDATA[  <p>האם תפילה אמורה לבטא את העבדות שלנו לקב"ה, כלומר, אנחנו מתפללים כי אנחנו מחויבים לכך, או שמא אנחנו מתפללים בשביל הצרכים שלנו ובכך שורש התפילה היא תחנונים ולא עבודה?</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>האם תפילה אמורה לבטא את העבדות שלנו לקב"ה, כלומר, אנחנו מתפללים כי אנחנו מחויבים לכך, או שמא אנחנו מתפללים בשביל הצרכים שלנו ובכך שורש התפילה היא תחנונים ולא עבודה?</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>האם תפילה אמורה לבטא את העבדות שלנו לקב&#34;ה, כלומר, אנחנו מתפללים כי אנחנו מחויבים לכך, או שמא אנחנו מתפללים בשביל הצרכים שלנו ובכך שורש התפילה היא תחנונים ולא עבודה?</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/c4/48/d7/76c9f9403699a58f37879b97cf.mp3" type="audio/mp3" length="8019511"/>
+            <itunes:duration>00:33:24</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-d544f68c74f944859462f2e9b79589f8</guid>
+            <pubDate>Mon, 20 Nov 2023 12:09:11 +0000</pubDate>
+            <castbox:tid>650029310</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>ויצא | על פי המהר&#34;ל הרב בני להמן</title>
+            <description><![CDATA[  <p>השיעור עוסק ביחסו של מהר"ל לחטאי אבות, ובמעלתו של יעקב אבינו כשורש האחדות.</p><p><br></p><p><br></p>  ]]></description>
+            <content:encoded><![CDATA[  <p>השיעור עוסק ביחסו של מהר"ל לחטאי אבות, ובמעלתו של יעקב אבינו כשורש האחדות.</p><p><br></p><p><br></p>  ]]></content:encoded>
+            <itunes:summary>השיעור עוסק ביחסו של מהר&#34;ל לחטאי אבות, ובמעלתו של יעקב אבינו כשורש האחדות.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/0d/28/74/322d1248ebb20bfd2cac4079b7.mp3" type="audio/mp3" length="11541247"/>
+            <itunes:duration>00:48:04</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-93c740ecca93408b9c7241012506823d</guid>
+            <pubDate>Mon, 20 Nov 2023 12:08:32 +0000</pubDate>
+            <castbox:tid>650029226</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>ויצא | בית אל | הרב יעקב מדן</title>
+            <description><![CDATA[  <p>ויצא | בית אל | הרב יעקב מדן</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>ויצא | בית אל | הרב יעקב מדן</p>  ]]></content:encoded>
+            <itunes:summary>ויצא | בית אל | הרב יעקב מדן</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/48/bc/fc/85266b4f59b44a2471a241b6f5.mp3" type="audio/mp3" length="6140216"/>
+            <itunes:duration>00:25:34</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-45c594007f624b6181959ffd59a1acbc</guid>
+            <pubDate>Mon, 20 Nov 2023 12:06:40 +0000</pubDate>
+            <castbox:tid>650029009</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>ויצא | אין מערבין שמחה בשמחה | הרב ישי יסלזון</title>
+            <description><![CDATA[  <p>סביב החתונות הרבות שיש בפרשה נדון בטעמי וגדרי הדין וננסה לברר מתי שייכת הבעיה שאין מערבין שמחה בשמחה ומתי לא.</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>סביב החתונות הרבות שיש בפרשה נדון בטעמי וגדרי הדין וננסה לברר מתי שייכת הבעיה שאין מערבין שמחה בשמחה ומתי לא.</p>  ]]></content:encoded>
+            <itunes:summary>סביב החתונות הרבות שיש בפרשה נדון בטעמי וגדרי הדין וננסה לברר מתי שייכת הבעיה שאין מערבין שמחה בשמחה ומתי לא.</itunes:summary>
+            <itunes:image href=""/>
+            <enclosure url="https://s3.castbox.fm/89/1c/c6/8956614ef68684ec217d19923e.mp3" type="audio/mp3" length="16010014"/>
+            <itunes:duration>00:33:21</itunes:duration>
+            <guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-c72c9f15d0c14db5b25d5a5e8c74742f</guid>
+            <pubDate>Mon, 20 Nov 2023 12:05:29 +0000</pubDate>
+            <castbox:tid>650028879</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+    </channel>
+</rss>
